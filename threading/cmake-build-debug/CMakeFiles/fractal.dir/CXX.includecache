@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Dylan/CLionProjects/threading/fractal.cpp
+iostream
+-
+vector
+-
+random
+-
+cmath
+-
+chrono
+-
+thread
+-
+fstream
+-
+future
+-
+thread
+-
+vector
+-
+

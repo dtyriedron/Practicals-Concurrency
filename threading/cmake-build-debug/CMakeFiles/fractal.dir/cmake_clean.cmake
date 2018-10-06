@@ -3,7 +3,7 @@ file(REMOVE_RECURSE
   "fractal.pdb"
   "fractal.exe"
   "fractal.exe.manifest"
-  "fractal.lib"
+  "libfractal.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

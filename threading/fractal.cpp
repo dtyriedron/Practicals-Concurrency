@@ -11,7 +11,9 @@
 #include <future>
 #include <thread>
 #include <vector>
-#include
+#define STB_IMAGE_WRITE_IMPLEMENTATION
+#define STBI_MSC_SECURE_CRT
+#include "imagelib.h"
 
 //number of iterations to perform to find pixel value
 constexpr size_t max_iterations = 1000;

@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/Dylan/CLionProjects/threading
+# Install script for directory: C:/Users/40203/Desktop/practicalsConcurrency/threading
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/Dylan/CLionProjects/threading/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/40203/Desktop/practicalsConcurrency/threading/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

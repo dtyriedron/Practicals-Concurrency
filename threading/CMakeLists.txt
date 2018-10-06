@@ -9,3 +9,8 @@ set(CMAKE_EXE_LINKER_FLAGS "${CMAKE_EXE_LINKER_FLAGS} ${OpenMP_EXE_LINKER_FLAGS}
 
 add_executable(monteCarlo monteCarloPI.cpp)
 add_executable(fractal fractal.cpp)
+add_executable(OpenMpHelloWorld OpenMPHelloWorld.cpp)
+add_executable(ParallelForPI ParallelForPI.cpp)
+add_executable(ParallelBubbleSort ParallelBubbleSort.cpp)
+add_executable(trapezodialFunction trapezodialFunction.cpp)
+add_executable(openMPScheduling openMPScheduling.cpp)

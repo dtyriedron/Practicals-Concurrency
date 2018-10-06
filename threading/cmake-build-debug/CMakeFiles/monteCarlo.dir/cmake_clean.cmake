@@ -3,7 +3,7 @@ file(REMOVE_RECURSE
   "monteCarlo.pdb"
   "monteCarlo.exe"
   "monteCarlo.exe.manifest"
-  "monteCarlo.lib"
+  "libmonteCarlo.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

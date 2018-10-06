@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/40203/Desktop/practicalsConcurrency/threading/trapezodialFunction.cpp
+vector
+-
+random
+-
+fstream
+-
+iostream
+-
+chrono
+-
+thread
+-
+functional
+-
+omp.h
+-
+

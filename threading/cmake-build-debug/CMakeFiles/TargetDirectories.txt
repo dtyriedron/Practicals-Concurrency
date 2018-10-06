@@ -1,4 +1,9 @@
-C:/Users/Dylan/CLionProjects/threading/cmake-build-debug/CMakeFiles/monteCarlo.dir
-C:/Users/Dylan/CLionProjects/threading/cmake-build-debug/CMakeFiles/fractal.dir
-C:/Users/Dylan/CLionProjects/threading/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Dylan/CLionProjects/threading/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/40203/Desktop/practicalsConcurrency/threading/cmake-build-debug/CMakeFiles/monteCarlo.dir
+C:/Users/40203/Desktop/practicalsConcurrency/threading/cmake-build-debug/CMakeFiles/openMPScheduling.dir
+C:/Users/40203/Desktop/practicalsConcurrency/threading/cmake-build-debug/CMakeFiles/fractal.dir
+C:/Users/40203/Desktop/practicalsConcurrency/threading/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/40203/Desktop/practicalsConcurrency/threading/cmake-build-debug/CMakeFiles/trapezodialFunction.dir
+C:/Users/40203/Desktop/practicalsConcurrency/threading/cmake-build-debug/CMakeFiles/OpenMpHelloWorld.dir
+C:/Users/40203/Desktop/practicalsConcurrency/threading/cmake-build-debug/CMakeFiles/ParallelBubbleSort.dir
+C:/Users/40203/Desktop/practicalsConcurrency/threading/cmake-build-debug/CMakeFiles/ParallelForPI.dir
+C:/Users/40203/Desktop/practicalsConcurrency/threading/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/40203/Desktop/practicalsConcurrency/threading/monteCarloPI.cpp
+iostream
+-
+vector
+-
+random
+-
+cmath
+-
+chrono
+-
+thread
+-
+fstream
+-
+

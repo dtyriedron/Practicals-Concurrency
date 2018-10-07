@@ -55,11 +55,17 @@ set(CMAKE_MAKEFILE_PRODUCTS
 
 # Dependency information for all targets:
 set(CMAKE_DEPEND_INFO_FILES
+  "CMakeFiles/LambdaThreadCreation.dir/DependInfo.cmake"
+  "CMakeFiles/multi-threading.dir/DependInfo.cmake"
+  "CMakeFiles/randomThreadparam.dir/DependInfo.cmake"
+  "CMakeFiles/lambdaExpressions.dir/DependInfo.cmake"
   "CMakeFiles/monteCarlo.dir/DependInfo.cmake"
-  "CMakeFiles/openMPScheduling.dir/DependInfo.cmake"
+  "CMakeFiles/lab1ex1.dir/DependInfo.cmake"
+  "CMakeFiles/multipleTasks.dir/DependInfo.cmake"
   "CMakeFiles/fractal.dir/DependInfo.cmake"
-  "CMakeFiles/trapezodialFunction.dir/DependInfo.cmake"
-  "CMakeFiles/OpenMpHelloWorld.dir/DependInfo.cmake"
   "CMakeFiles/ParallelBubbleSort.dir/DependInfo.cmake"
+  "CMakeFiles/OpenMpHelloWorld.dir/DependInfo.cmake"
   "CMakeFiles/ParallelForPI.dir/DependInfo.cmake"
+  "CMakeFiles/trapezodialFunction.dir/DependInfo.cmake"
+  "CMakeFiles/openMPScheduling.dir/DependInfo.cmake"
   )

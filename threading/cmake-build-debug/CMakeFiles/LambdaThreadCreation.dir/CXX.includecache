@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/40203/Desktop/practicalsConcurrency/threading/LambdaThreadCreation.cpp
+functional
+-
+thread
+-
+fstream
+-
+iostream
+-
+chrono
+-
+

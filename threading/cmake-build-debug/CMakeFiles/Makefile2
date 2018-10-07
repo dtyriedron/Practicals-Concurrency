@@ -64,13 +64,161 @@ CMAKE_SOURCE_DIR = C:\Users\40203\Desktop\practicalsConcurrency\threading
 CMAKE_BINARY_DIR = C:\Users\40203\Desktop\practicalsConcurrency\threading\cmake-build-debug
 
 #=============================================================================
+# Target rules for target CMakeFiles/LambdaThreadCreation.dir
+
+# All Build rule for target.
+CMakeFiles/LambdaThreadCreation.dir/all:
+	$(MAKE) -f CMakeFiles\LambdaThreadCreation.dir\build.make CMakeFiles/LambdaThreadCreation.dir/depend
+	$(MAKE) -f CMakeFiles\LambdaThreadCreation.dir\build.make CMakeFiles/LambdaThreadCreation.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\40203\Desktop\practicalsConcurrency\threading\cmake-build-debug\CMakeFiles --progress-num=1,2 "Built target LambdaThreadCreation"
+.PHONY : CMakeFiles/LambdaThreadCreation.dir/all
+
+# Include target in all.
+all: CMakeFiles/LambdaThreadCreation.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/LambdaThreadCreation.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\40203\Desktop\practicalsConcurrency\threading\cmake-build-debug\CMakeFiles 2
+	$(MAKE) -f CMakeFiles\Makefile2 CMakeFiles/LambdaThreadCreation.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\40203\Desktop\practicalsConcurrency\threading\cmake-build-debug\CMakeFiles 0
+.PHONY : CMakeFiles/LambdaThreadCreation.dir/rule
+
+# Convenience name for target.
+LambdaThreadCreation: CMakeFiles/LambdaThreadCreation.dir/rule
+
+.PHONY : LambdaThreadCreation
+
+# clean rule for target.
+CMakeFiles/LambdaThreadCreation.dir/clean:
+	$(MAKE) -f CMakeFiles\LambdaThreadCreation.dir\build.make CMakeFiles/LambdaThreadCreation.dir/clean
+.PHONY : CMakeFiles/LambdaThreadCreation.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/LambdaThreadCreation.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/multi-threading.dir
+
+# All Build rule for target.
+CMakeFiles/multi-threading.dir/all:
+	$(MAKE) -f CMakeFiles\multi-threading.dir\build.make CMakeFiles/multi-threading.dir/depend
+	$(MAKE) -f CMakeFiles\multi-threading.dir\build.make CMakeFiles/multi-threading.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\40203\Desktop\practicalsConcurrency\threading\cmake-build-debug\CMakeFiles --progress-num=17,18 "Built target multi-threading"
+.PHONY : CMakeFiles/multi-threading.dir/all
+
+# Include target in all.
+all: CMakeFiles/multi-threading.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/multi-threading.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\40203\Desktop\practicalsConcurrency\threading\cmake-build-debug\CMakeFiles 2
+	$(MAKE) -f CMakeFiles\Makefile2 CMakeFiles/multi-threading.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\40203\Desktop\practicalsConcurrency\threading\cmake-build-debug\CMakeFiles 0
+.PHONY : CMakeFiles/multi-threading.dir/rule
+
+# Convenience name for target.
+multi-threading: CMakeFiles/multi-threading.dir/rule
+
+.PHONY : multi-threading
+
+# clean rule for target.
+CMakeFiles/multi-threading.dir/clean:
+	$(MAKE) -f CMakeFiles\multi-threading.dir\build.make CMakeFiles/multi-threading.dir/clean
+.PHONY : CMakeFiles/multi-threading.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/multi-threading.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/randomThreadparam.dir
+
+# All Build rule for target.
+CMakeFiles/randomThreadparam.dir/all:
+	$(MAKE) -f CMakeFiles\randomThreadparam.dir\build.make CMakeFiles/randomThreadparam.dir/depend
+	$(MAKE) -f CMakeFiles\randomThreadparam.dir\build.make CMakeFiles/randomThreadparam.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\40203\Desktop\practicalsConcurrency\threading\cmake-build-debug\CMakeFiles --progress-num=23,24 "Built target randomThreadparam"
+.PHONY : CMakeFiles/randomThreadparam.dir/all
+
+# Include target in all.
+all: CMakeFiles/randomThreadparam.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/randomThreadparam.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\40203\Desktop\practicalsConcurrency\threading\cmake-build-debug\CMakeFiles 2
+	$(MAKE) -f CMakeFiles\Makefile2 CMakeFiles/randomThreadparam.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\40203\Desktop\practicalsConcurrency\threading\cmake-build-debug\CMakeFiles 0
+.PHONY : CMakeFiles/randomThreadparam.dir/rule
+
+# Convenience name for target.
+randomThreadparam: CMakeFiles/randomThreadparam.dir/rule
+
+.PHONY : randomThreadparam
+
+# clean rule for target.
+CMakeFiles/randomThreadparam.dir/clean:
+	$(MAKE) -f CMakeFiles\randomThreadparam.dir\build.make CMakeFiles/randomThreadparam.dir/clean
+.PHONY : CMakeFiles/randomThreadparam.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/randomThreadparam.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/lambdaExpressions.dir
+
+# All Build rule for target.
+CMakeFiles/lambdaExpressions.dir/all:
+	$(MAKE) -f CMakeFiles\lambdaExpressions.dir\build.make CMakeFiles/lambdaExpressions.dir/depend
+	$(MAKE) -f CMakeFiles\lambdaExpressions.dir\build.make CMakeFiles/lambdaExpressions.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\40203\Desktop\practicalsConcurrency\threading\cmake-build-debug\CMakeFiles --progress-num=13,14 "Built target lambdaExpressions"
+.PHONY : CMakeFiles/lambdaExpressions.dir/all
+
+# Include target in all.
+all: CMakeFiles/lambdaExpressions.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/lambdaExpressions.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\40203\Desktop\practicalsConcurrency\threading\cmake-build-debug\CMakeFiles 2
+	$(MAKE) -f CMakeFiles\Makefile2 CMakeFiles/lambdaExpressions.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\40203\Desktop\practicalsConcurrency\threading\cmake-build-debug\CMakeFiles 0
+.PHONY : CMakeFiles/lambdaExpressions.dir/rule
+
+# Convenience name for target.
+lambdaExpressions: CMakeFiles/lambdaExpressions.dir/rule
+
+.PHONY : lambdaExpressions
+
+# clean rule for target.
+CMakeFiles/lambdaExpressions.dir/clean:
+	$(MAKE) -f CMakeFiles\lambdaExpressions.dir\build.make CMakeFiles/lambdaExpressions.dir/clean
+.PHONY : CMakeFiles/lambdaExpressions.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/lambdaExpressions.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
 # Target rules for target CMakeFiles/monteCarlo.dir
 
 # All Build rule for target.
 CMakeFiles/monteCarlo.dir/all:
 	$(MAKE) -f CMakeFiles\monteCarlo.dir\build.make CMakeFiles/monteCarlo.dir/depend
 	$(MAKE) -f CMakeFiles\monteCarlo.dir\build.make CMakeFiles/monteCarlo.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\40203\Desktop\practicalsConcurrency\threading\cmake-build-debug\CMakeFiles --progress-num=9,10 "Built target monteCarlo"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\40203\Desktop\practicalsConcurrency\threading\cmake-build-debug\CMakeFiles --progress-num=15,16 "Built target monteCarlo"
 .PHONY : CMakeFiles/monteCarlo.dir/all
 
 # Include target in all.
@@ -101,39 +249,76 @@ clean: CMakeFiles/monteCarlo.dir/clean
 .PHONY : clean
 
 #=============================================================================
-# Target rules for target CMakeFiles/openMPScheduling.dir
+# Target rules for target CMakeFiles/lab1ex1.dir
 
 # All Build rule for target.
-CMakeFiles/openMPScheduling.dir/all:
-	$(MAKE) -f CMakeFiles\openMPScheduling.dir\build.make CMakeFiles/openMPScheduling.dir/depend
-	$(MAKE) -f CMakeFiles\openMPScheduling.dir\build.make CMakeFiles/openMPScheduling.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\40203\Desktop\practicalsConcurrency\threading\cmake-build-debug\CMakeFiles --progress-num=11,12 "Built target openMPScheduling"
-.PHONY : CMakeFiles/openMPScheduling.dir/all
+CMakeFiles/lab1ex1.dir/all:
+	$(MAKE) -f CMakeFiles\lab1ex1.dir\build.make CMakeFiles/lab1ex1.dir/depend
+	$(MAKE) -f CMakeFiles\lab1ex1.dir\build.make CMakeFiles/lab1ex1.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\40203\Desktop\practicalsConcurrency\threading\cmake-build-debug\CMakeFiles --progress-num=11,12 "Built target lab1ex1"
+.PHONY : CMakeFiles/lab1ex1.dir/all
 
 # Include target in all.
-all: CMakeFiles/openMPScheduling.dir/all
+all: CMakeFiles/lab1ex1.dir/all
 
 .PHONY : all
 
 # Build rule for subdir invocation for target.
-CMakeFiles/openMPScheduling.dir/rule: cmake_check_build_system
+CMakeFiles/lab1ex1.dir/rule: cmake_check_build_system
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\40203\Desktop\practicalsConcurrency\threading\cmake-build-debug\CMakeFiles 2
-	$(MAKE) -f CMakeFiles\Makefile2 CMakeFiles/openMPScheduling.dir/all
+	$(MAKE) -f CMakeFiles\Makefile2 CMakeFiles/lab1ex1.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\40203\Desktop\practicalsConcurrency\threading\cmake-build-debug\CMakeFiles 0
-.PHONY : CMakeFiles/openMPScheduling.dir/rule
+.PHONY : CMakeFiles/lab1ex1.dir/rule
 
 # Convenience name for target.
-openMPScheduling: CMakeFiles/openMPScheduling.dir/rule
+lab1ex1: CMakeFiles/lab1ex1.dir/rule
 
-.PHONY : openMPScheduling
-
-# clean rule for target.
-CMakeFiles/openMPScheduling.dir/clean:
-	$(MAKE) -f CMakeFiles\openMPScheduling.dir\build.make CMakeFiles/openMPScheduling.dir/clean
-.PHONY : CMakeFiles/openMPScheduling.dir/clean
+.PHONY : lab1ex1
 
 # clean rule for target.
-clean: CMakeFiles/openMPScheduling.dir/clean
+CMakeFiles/lab1ex1.dir/clean:
+	$(MAKE) -f CMakeFiles\lab1ex1.dir\build.make CMakeFiles/lab1ex1.dir/clean
+.PHONY : CMakeFiles/lab1ex1.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/lab1ex1.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/multipleTasks.dir
+
+# All Build rule for target.
+CMakeFiles/multipleTasks.dir/all:
+	$(MAKE) -f CMakeFiles\multipleTasks.dir\build.make CMakeFiles/multipleTasks.dir/depend
+	$(MAKE) -f CMakeFiles\multipleTasks.dir\build.make CMakeFiles/multipleTasks.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\40203\Desktop\practicalsConcurrency\threading\cmake-build-debug\CMakeFiles --progress-num=19,20 "Built target multipleTasks"
+.PHONY : CMakeFiles/multipleTasks.dir/all
+
+# Include target in all.
+all: CMakeFiles/multipleTasks.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/multipleTasks.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\40203\Desktop\practicalsConcurrency\threading\cmake-build-debug\CMakeFiles 2
+	$(MAKE) -f CMakeFiles\Makefile2 CMakeFiles/multipleTasks.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\40203\Desktop\practicalsConcurrency\threading\cmake-build-debug\CMakeFiles 0
+.PHONY : CMakeFiles/multipleTasks.dir/rule
+
+# Convenience name for target.
+multipleTasks: CMakeFiles/multipleTasks.dir/rule
+
+.PHONY : multipleTasks
+
+# clean rule for target.
+CMakeFiles/multipleTasks.dir/clean:
+	$(MAKE) -f CMakeFiles\multipleTasks.dir\build.make CMakeFiles/multipleTasks.dir/clean
+.PHONY : CMakeFiles/multipleTasks.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/multipleTasks.dir/clean
 
 .PHONY : clean
 
@@ -144,7 +329,7 @@ clean: CMakeFiles/openMPScheduling.dir/clean
 CMakeFiles/fractal.dir/all:
 	$(MAKE) -f CMakeFiles\fractal.dir\build.make CMakeFiles/fractal.dir/depend
 	$(MAKE) -f CMakeFiles\fractal.dir\build.make CMakeFiles/fractal.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\40203\Desktop\practicalsConcurrency\threading\cmake-build-debug\CMakeFiles --progress-num=7,8 "Built target fractal"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\40203\Desktop\practicalsConcurrency\threading\cmake-build-debug\CMakeFiles --progress-num=9,10 "Built target fractal"
 .PHONY : CMakeFiles/fractal.dir/all
 
 # Include target in all.
@@ -175,87 +360,13 @@ clean: CMakeFiles/fractal.dir/clean
 .PHONY : clean
 
 #=============================================================================
-# Target rules for target CMakeFiles/trapezodialFunction.dir
-
-# All Build rule for target.
-CMakeFiles/trapezodialFunction.dir/all:
-	$(MAKE) -f CMakeFiles\trapezodialFunction.dir\build.make CMakeFiles/trapezodialFunction.dir/depend
-	$(MAKE) -f CMakeFiles\trapezodialFunction.dir\build.make CMakeFiles/trapezodialFunction.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\40203\Desktop\practicalsConcurrency\threading\cmake-build-debug\CMakeFiles --progress-num=13,14 "Built target trapezodialFunction"
-.PHONY : CMakeFiles/trapezodialFunction.dir/all
-
-# Include target in all.
-all: CMakeFiles/trapezodialFunction.dir/all
-
-.PHONY : all
-
-# Build rule for subdir invocation for target.
-CMakeFiles/trapezodialFunction.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\40203\Desktop\practicalsConcurrency\threading\cmake-build-debug\CMakeFiles 2
-	$(MAKE) -f CMakeFiles\Makefile2 CMakeFiles/trapezodialFunction.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\40203\Desktop\practicalsConcurrency\threading\cmake-build-debug\CMakeFiles 0
-.PHONY : CMakeFiles/trapezodialFunction.dir/rule
-
-# Convenience name for target.
-trapezodialFunction: CMakeFiles/trapezodialFunction.dir/rule
-
-.PHONY : trapezodialFunction
-
-# clean rule for target.
-CMakeFiles/trapezodialFunction.dir/clean:
-	$(MAKE) -f CMakeFiles\trapezodialFunction.dir\build.make CMakeFiles/trapezodialFunction.dir/clean
-.PHONY : CMakeFiles/trapezodialFunction.dir/clean
-
-# clean rule for target.
-clean: CMakeFiles/trapezodialFunction.dir/clean
-
-.PHONY : clean
-
-#=============================================================================
-# Target rules for target CMakeFiles/OpenMpHelloWorld.dir
-
-# All Build rule for target.
-CMakeFiles/OpenMpHelloWorld.dir/all:
-	$(MAKE) -f CMakeFiles\OpenMpHelloWorld.dir\build.make CMakeFiles/OpenMpHelloWorld.dir/depend
-	$(MAKE) -f CMakeFiles\OpenMpHelloWorld.dir\build.make CMakeFiles/OpenMpHelloWorld.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\40203\Desktop\practicalsConcurrency\threading\cmake-build-debug\CMakeFiles --progress-num=1,2 "Built target OpenMpHelloWorld"
-.PHONY : CMakeFiles/OpenMpHelloWorld.dir/all
-
-# Include target in all.
-all: CMakeFiles/OpenMpHelloWorld.dir/all
-
-.PHONY : all
-
-# Build rule for subdir invocation for target.
-CMakeFiles/OpenMpHelloWorld.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\40203\Desktop\practicalsConcurrency\threading\cmake-build-debug\CMakeFiles 2
-	$(MAKE) -f CMakeFiles\Makefile2 CMakeFiles/OpenMpHelloWorld.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\40203\Desktop\practicalsConcurrency\threading\cmake-build-debug\CMakeFiles 0
-.PHONY : CMakeFiles/OpenMpHelloWorld.dir/rule
-
-# Convenience name for target.
-OpenMpHelloWorld: CMakeFiles/OpenMpHelloWorld.dir/rule
-
-.PHONY : OpenMpHelloWorld
-
-# clean rule for target.
-CMakeFiles/OpenMpHelloWorld.dir/clean:
-	$(MAKE) -f CMakeFiles\OpenMpHelloWorld.dir\build.make CMakeFiles/OpenMpHelloWorld.dir/clean
-.PHONY : CMakeFiles/OpenMpHelloWorld.dir/clean
-
-# clean rule for target.
-clean: CMakeFiles/OpenMpHelloWorld.dir/clean
-
-.PHONY : clean
-
-#=============================================================================
 # Target rules for target CMakeFiles/ParallelBubbleSort.dir
 
 # All Build rule for target.
 CMakeFiles/ParallelBubbleSort.dir/all:
 	$(MAKE) -f CMakeFiles\ParallelBubbleSort.dir\build.make CMakeFiles/ParallelBubbleSort.dir/depend
 	$(MAKE) -f CMakeFiles\ParallelBubbleSort.dir\build.make CMakeFiles/ParallelBubbleSort.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\40203\Desktop\practicalsConcurrency\threading\cmake-build-debug\CMakeFiles --progress-num=3,4 "Built target ParallelBubbleSort"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\40203\Desktop\practicalsConcurrency\threading\cmake-build-debug\CMakeFiles --progress-num=5,6 "Built target ParallelBubbleSort"
 .PHONY : CMakeFiles/ParallelBubbleSort.dir/all
 
 # Include target in all.
@@ -286,13 +397,50 @@ clean: CMakeFiles/ParallelBubbleSort.dir/clean
 .PHONY : clean
 
 #=============================================================================
+# Target rules for target CMakeFiles/OpenMpHelloWorld.dir
+
+# All Build rule for target.
+CMakeFiles/OpenMpHelloWorld.dir/all:
+	$(MAKE) -f CMakeFiles\OpenMpHelloWorld.dir\build.make CMakeFiles/OpenMpHelloWorld.dir/depend
+	$(MAKE) -f CMakeFiles\OpenMpHelloWorld.dir\build.make CMakeFiles/OpenMpHelloWorld.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\40203\Desktop\practicalsConcurrency\threading\cmake-build-debug\CMakeFiles --progress-num=3,4 "Built target OpenMpHelloWorld"
+.PHONY : CMakeFiles/OpenMpHelloWorld.dir/all
+
+# Include target in all.
+all: CMakeFiles/OpenMpHelloWorld.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/OpenMpHelloWorld.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\40203\Desktop\practicalsConcurrency\threading\cmake-build-debug\CMakeFiles 2
+	$(MAKE) -f CMakeFiles\Makefile2 CMakeFiles/OpenMpHelloWorld.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\40203\Desktop\practicalsConcurrency\threading\cmake-build-debug\CMakeFiles 0
+.PHONY : CMakeFiles/OpenMpHelloWorld.dir/rule
+
+# Convenience name for target.
+OpenMpHelloWorld: CMakeFiles/OpenMpHelloWorld.dir/rule
+
+.PHONY : OpenMpHelloWorld
+
+# clean rule for target.
+CMakeFiles/OpenMpHelloWorld.dir/clean:
+	$(MAKE) -f CMakeFiles\OpenMpHelloWorld.dir\build.make CMakeFiles/OpenMpHelloWorld.dir/clean
+.PHONY : CMakeFiles/OpenMpHelloWorld.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/OpenMpHelloWorld.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
 # Target rules for target CMakeFiles/ParallelForPI.dir
 
 # All Build rule for target.
 CMakeFiles/ParallelForPI.dir/all:
 	$(MAKE) -f CMakeFiles\ParallelForPI.dir\build.make CMakeFiles/ParallelForPI.dir/depend
 	$(MAKE) -f CMakeFiles\ParallelForPI.dir\build.make CMakeFiles/ParallelForPI.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\40203\Desktop\practicalsConcurrency\threading\cmake-build-debug\CMakeFiles --progress-num=5,6 "Built target ParallelForPI"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\40203\Desktop\practicalsConcurrency\threading\cmake-build-debug\CMakeFiles --progress-num=7,8 "Built target ParallelForPI"
 .PHONY : CMakeFiles/ParallelForPI.dir/all
 
 # Include target in all.
@@ -319,6 +467,80 @@ CMakeFiles/ParallelForPI.dir/clean:
 
 # clean rule for target.
 clean: CMakeFiles/ParallelForPI.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/trapezodialFunction.dir
+
+# All Build rule for target.
+CMakeFiles/trapezodialFunction.dir/all:
+	$(MAKE) -f CMakeFiles\trapezodialFunction.dir\build.make CMakeFiles/trapezodialFunction.dir/depend
+	$(MAKE) -f CMakeFiles\trapezodialFunction.dir\build.make CMakeFiles/trapezodialFunction.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\40203\Desktop\practicalsConcurrency\threading\cmake-build-debug\CMakeFiles --progress-num=25,26 "Built target trapezodialFunction"
+.PHONY : CMakeFiles/trapezodialFunction.dir/all
+
+# Include target in all.
+all: CMakeFiles/trapezodialFunction.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/trapezodialFunction.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\40203\Desktop\practicalsConcurrency\threading\cmake-build-debug\CMakeFiles 2
+	$(MAKE) -f CMakeFiles\Makefile2 CMakeFiles/trapezodialFunction.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\40203\Desktop\practicalsConcurrency\threading\cmake-build-debug\CMakeFiles 0
+.PHONY : CMakeFiles/trapezodialFunction.dir/rule
+
+# Convenience name for target.
+trapezodialFunction: CMakeFiles/trapezodialFunction.dir/rule
+
+.PHONY : trapezodialFunction
+
+# clean rule for target.
+CMakeFiles/trapezodialFunction.dir/clean:
+	$(MAKE) -f CMakeFiles\trapezodialFunction.dir\build.make CMakeFiles/trapezodialFunction.dir/clean
+.PHONY : CMakeFiles/trapezodialFunction.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/trapezodialFunction.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/openMPScheduling.dir
+
+# All Build rule for target.
+CMakeFiles/openMPScheduling.dir/all:
+	$(MAKE) -f CMakeFiles\openMPScheduling.dir\build.make CMakeFiles/openMPScheduling.dir/depend
+	$(MAKE) -f CMakeFiles\openMPScheduling.dir\build.make CMakeFiles/openMPScheduling.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\40203\Desktop\practicalsConcurrency\threading\cmake-build-debug\CMakeFiles --progress-num=21,22 "Built target openMPScheduling"
+.PHONY : CMakeFiles/openMPScheduling.dir/all
+
+# Include target in all.
+all: CMakeFiles/openMPScheduling.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/openMPScheduling.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\40203\Desktop\practicalsConcurrency\threading\cmake-build-debug\CMakeFiles 2
+	$(MAKE) -f CMakeFiles\Makefile2 CMakeFiles/openMPScheduling.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\40203\Desktop\practicalsConcurrency\threading\cmake-build-debug\CMakeFiles 0
+.PHONY : CMakeFiles/openMPScheduling.dir/rule
+
+# Convenience name for target.
+openMPScheduling: CMakeFiles/openMPScheduling.dir/rule
+
+.PHONY : openMPScheduling
+
+# clean rule for target.
+CMakeFiles/openMPScheduling.dir/clean:
+	$(MAKE) -f CMakeFiles\openMPScheduling.dir\build.make CMakeFiles/openMPScheduling.dir/clean
+.PHONY : CMakeFiles/openMPScheduling.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/openMPScheduling.dir/clean
 
 .PHONY : clean
 
